@@ -107,20 +107,3 @@ Contributions are welcome! Please follow these steps:
    ```
 
 5. Open a pull request describing your changes.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgements
-
-* Inspired by the official [Docker](https://www.docker.com/) project.
-* References:
-
-  * [Linux Containers](https://linuxcontainers.org/)
-  * [Namespaces in operation](https://man7.org/linux/man-pages/man7/namespaces.7.html)
-  * [Control Groups](https://man7.org/linux/man-pages/man7/cgroups.7.html
-
----
-
-Feel free to customize this `README.md` to better fit the specifics of your project. If you need assistance with any particular section or further customization, don't hesitate to ask!
